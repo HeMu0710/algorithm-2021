@@ -3,7 +3,7 @@ package leetcode;
 import java.util.ArrayList;
 
 public class T86_partition_list {
-    //https://leetcode-cn.com/problems/partition-list/submissions/
+    // https://leetcode-cn.com/problems/partition-list/submissions/
     public ListNode partition(ListNode head, int x) {
         if (head == null || head.next == null) return head;
         ArrayList<Integer> nums = new ArrayList<>();
@@ -32,14 +32,15 @@ public class T86_partition_list {
         }
         return resultHead;
     }
+
+    /**
+     * Definition for singly-linked list.
+     */
+    class ListNode {
+        int val;
+        ListNode next;
+        ListNode(int x) { val = x; }
+    }
 }
 
-/**
- * Definition for singly-linked list.
- */
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
-}
 
