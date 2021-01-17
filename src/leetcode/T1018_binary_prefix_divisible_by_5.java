@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class T1018_binary_prefix_divisible_by_5 {
+
+    // https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/
+
     public List<Boolean> prefixesDivBy5(int[] A) {
         List<Boolean> ans = new ArrayList<>();
 

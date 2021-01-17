@@ -1,6 +1,9 @@
 package leetcode;
 
 public class T1232_check_if_it_is_a_straight_line {
+
+    // https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/
+
     public boolean checkStraightLine(int[][] coordinates) {
         if (coordinates.length == 2) {
             return true;
