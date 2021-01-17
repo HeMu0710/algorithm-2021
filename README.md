@@ -13,6 +13,7 @@
 | 2021/1/17 | [leetcode T1232 缀点连线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line/) | 通过前两个点算出斜率和截距，往后遍历看是不是符合就完事儿了，斜率无穷大就直接比较x |
 | 2021/1/17 | [leetcode T684 冗余连接](https://leetcode-cn.com/problems/redundant-connection/submissions/) | 并查集，倒序遍历所有边，分别计算出除去当前边的其他所有边加入并查集后的连通分量，若为1（即该边为倒序的第一条多余边），则返回这条边 |
 | 2021/1/17 | [leetcode T547 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 并查集，计算连通分量即可                                     |
+| 2021/1/17 | [leetcode T1 两数之和](https://leetcode-cn.com/problems/two-sum/) | 暴力遍历：时间O(N^2),空间O(1)；哈希表：时间O(N),空间O(N)     |
 
 ## commit格式
 
