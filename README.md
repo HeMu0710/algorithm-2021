@@ -15,6 +15,7 @@
 | 2021/1/17 | [leetcode T547 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 并查集，计算连通分量即可                                     |
 | 2021/1/17 | [leetcode T1 两数之和](https://leetcode-cn.com/problems/two-sum/) | 暴力遍历：时间O(N^2),空间O(1)；哈希表：时间O(N),空间O(N)     |
 | 2021/1/18 | [leetcode T721 账户合并](https://leetcode-cn.com/problems/accounts-merge/) | 并查集+哈希表，通过遍历所有邮箱，将出现过的不重复的邮箱对应id使用并查集去重、合并，最后将之与名字对应 |
+| 2021/1/19 | [leetcode T1584 连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/submissions/) | 最小生成树，最小生成树算法有很多种，各种方法应该都可以，这里采用的是Prim，即每次加入最短的边（相对已连接起来的组件），加完所有点后即得最小生成树 |
 
 ## commit格式
 
