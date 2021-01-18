@@ -14,6 +14,7 @@
 | 2021/1/17 | [leetcode T684 冗余连接](https://leetcode-cn.com/problems/redundant-connection/submissions/) | 并查集，倒序遍历所有边，分别计算出除去当前边的其他所有边加入并查集后的连通分量，若为1（即该边为倒序的第一条多余边），则返回这条边 |
 | 2021/1/17 | [leetcode T547 省份数量](https://leetcode-cn.com/problems/number-of-provinces/) | 并查集，计算连通分量即可                                     |
 | 2021/1/17 | [leetcode T1 两数之和](https://leetcode-cn.com/problems/two-sum/) | 暴力遍历：时间O(N^2),空间O(1)；哈希表：时间O(N),空间O(N)     |
+| 2021/1/18 | [leetcode T721 账户合并](https://leetcode-cn.com/problems/accounts-merge/) | 并查集+哈希表，通过遍历所有邮箱，将出现过的不重复的邮箱对应id使用并查集去重、合并，最后将之与名字对应 |
 
 ## commit格式
 
