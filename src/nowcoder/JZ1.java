@@ -16,19 +16,16 @@ public class JZ1 {
     */
 
     public boolean Find(int target, int [][] array) {
-        if (array.length == 0) return false;
-        if (array[0].length == 0) return false;
-        int jSize = array[0].length - 1;
-        int iSize = array.length - 1;
-        if (target < array[0][0] || target > array[iSize][jSize]) return false;
-        for (int i = 0; i <= iSize; i++) {
-            if (target == array[i][0] || target == array[i][jSize]) return true;
-            if (target > array[i][jSize]) continue;
-            for (int j = 0; j < jSize; j++) {
-                if (target == array[0][j] || target == array[iSize][j]) return true;
-                if (target > array[iSize][j]) continue;
-                if (target == array[i][j]) return true;
-            }
+        int rows = array.length;
+        int cols = array[0].length;
+        int i=rows-1,j=0;
+        while(i>=0 && j<cols){
+            if(target<array[i][j])
+                i--;
+            else if(target>array[i][j])
+                j++;
+            else
+                return true;
         }
         return false;
     }
