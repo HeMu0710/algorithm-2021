@@ -4,8 +4,20 @@
 
 ## 刷题记录
 
+### 一月
+
 | 日期      | 题目                                                         | 思路或总结                                                   |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 2021/1/2  | [leetcode T605 种花问题](https://leetcode-cn.com/problems/can-place-flowers/) | 遍历找连续0，注意几种特殊情况即可                            |
+| 2021/1/2  | [leetcode T239 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | 每次滑动，只需比较右端进来的新元素和原有的最大值，倘若新元素更大，那么新元素显而易见成为最大值，反之最大值不变，倘若最大值从左边离开窗口且新元素更小，则要对窗口内元素进行遍历找出最大值 |
+| 2021/1/4  | [leetcode T509 斐波那契数列](https://leetcode-cn.com/problems/fibonacci-number/) | 自底向上遍历，比直接递归效率要高                             |
+| 2021/1/4  | [leetcode T86 分隔链表](https://leetcode-cn.com/problems/partition-list/submissions/) | 用链表模拟就完事儿了                                         |
+| 2021/1/5  | [leetcode T830 较大区间](https://leetcode-cn.com/problems/positions-of-large-groups/) | 转为char数组后遍历计数就完事儿了                             |
+| 2021/1/5  | [nowcoder JZ1 二维数组的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&&tqId=11154&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 根据二维数组本身有序的特性，从左下角开始查找，比target小则往右找，比target大则往上找，超出边界则无target |
+| 2021/1/5  | [nowcoder JZ2 替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking) | 转为char数组，遍历                                           |
+| 2021/1/5  | [nowcoder JZ3 从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11155&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking) | 遍历链表，存入list里然后逆序打印                             |
+| 2021/1/10 | [leetcode T228 汇总区间](https://leetcode-cn.com/problems/summary-ranges/) | 比较简单的数组操作的题目                                     |
+| 2021/1/11 | [leetcode T189 旋转数组](https://leetcode-cn.com/problems/rotate-array/) | 一次性找到对应数组的目标位置即可                             |
 | 2021/1/15 | [leetcode T947 移除最多的同行或同列石头](https://leetcode-cn.com/problems/most-stones-removed-with-same-row-or-column/) | 并查集，将石头的y坐标通过+10000操作使其与x坐标隔开，放在一个一维数组上，将每个点加入并查集，最后可以去掉的石头总数就是总石头数减去并查集的连通分量 |
 | 2021/1/15 | [leetcode T1202 交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps/) | 并查集+优先队列，多个索引对可能有相连即可以用并查集对可以任意互换的元素归类，并用优先队列保证每次取出的都是最小字典序的字符 |
 | 2021/1/15 | [leetcode T1018 可被5整除的2进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/) | 可否被5整除关键是个位数，即可只保留个位数，另外遍历时，可直接将上一次结果乘2后加上当前的位，再模5判断 |
