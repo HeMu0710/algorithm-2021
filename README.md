@@ -30,6 +30,7 @@
 | 2021/1/19 | [leetcode T1584 连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/submissions/) | 最小生成树，最小生成树算法有很多种，各种方法应该都可以，这里采用的是Prim，即每次加入最短的边（相对已连接起来的组件），加完所有点后即得最小生成树 |
 | 2021/1/19 | [leetcode T123 买卖股票的最佳时机-Ⅲ](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/) | 对于任意一天考虑四个变量: fstBuy: 在该天第一次买入股票可获得的最大收益 fstSell: 在该天第一次卖出股票可获得的最大收益 secBuy: 在该天第二次买入股票可获得的最大收益 secSell: 在该天第二次卖出股票可获得的最大收益 分别对四个变量进行相应的更新, 最后secSell就是最大 收益值(secSell >= fstSell) |
 | 2021/1/19 | [剑指Offer JZ07 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | 利用递归的方式，通过中序遍历得到根节点后，结合前序遍历计算左子树和右子树的元素个数，分隔开后递归往下构建 |
+| 2021/1/20 | [剑指Offer JZ09](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/submissions/) | 初始化两个栈：stack1和stack2，新增数据压入stack1中，删除时stack2.pop，倘若stack2为空，就把stack1中所有元素一个个压入stack2，倘若stack1和stack2都为空，返回-1 |
 
 ## commit格式
 
