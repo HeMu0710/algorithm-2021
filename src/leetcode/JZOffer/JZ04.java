@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.JZOffer;
 
 import java.util.Arrays;
 

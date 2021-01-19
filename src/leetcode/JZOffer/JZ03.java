@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.JZOffer;
 
 public class JZ03 {
     public int findRepeatNumber(int[] nums) {
