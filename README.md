@@ -38,3 +38,4 @@
 | 2021/1/20 | [剑指 Offer 12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | DFS + 剪枝，需要注意回溯时路径的还原和递归的出口             |
 | 2021/1/20 | [剑指 Offer 13. 机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | DFS K.O                                                      |
 | 2021/1/20 | [剑指 Offer 14- I. 剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | 动态规划，状态转移方程：dp[i] = Math.max(dp[i], Math.max(j * dp[i-j], j * (i - j))); 其中 1<j<ior<br>[数论解法](https://leetcode-cn.com/problems/integer-break/solution/343-zheng-shu-chai-fen-tan-xin-by-jyd/)，将数尽可能拆成最多的3 |
+| 2021/1/20 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 移位比较<br>n = n & (n - 1) 消去最右边的1，计数              |
