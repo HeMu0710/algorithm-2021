@@ -34,4 +34,5 @@
 | 2021/1/20 | [剑指Offer JZ10 斐波那契数列(0≤n≤100)](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/submissions/) | 正常斐波那契数列，n可能取特别大导致结果溢出，所以依题意结果要模除1e9+7，即每一步算完后模除即可 |
 | 2021/1/20 | [剑指 Offer 10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | F(0) = 1, F(1) = 1,其他同上一道                              |
 | 2021/1/20 | [剑指 Offer 11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | 遍历数组，找到第一个比前一个元素小的元素，返回，倘若找不到就属于数组完全递增，返回第一个元素 |
+| 2021/1/20 | [628. 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/) | 排好序后，最大值只可能出现在1、最大的三项乘积 2、最小的两项和最大的一项乘积。知道这一点后返回俩者较大值即可 |
 
