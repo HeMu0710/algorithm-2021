@@ -41,3 +41,5 @@
 | 2021/1/20 | [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | 移位比较<br>n = n & (n - 1) 消去最右边的1，计数              |
 | 2021/1/20 | [剑指 Offer 16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | 快速幂，n往下2分                                             |
 | 2021/1/20 | [剑指 Offer 17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | 就这？                                                       |
+| 2021/1/21 | [1489. 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 关键边：去除这条边后，最小生成树权值合变大(v > value)或者无法生成最小生成树<br>伪关键边：首先将这条边连上，最小生成树权值不变(v = value) |
+
