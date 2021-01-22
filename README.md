@@ -52,4 +52,5 @@
 | 2021/1/22 | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | DFS，需要注意的是DFS的时候只要待匹配的节点为null，直接返回true |
 | 2021/1/22 | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | DFS，就这？                                                  |
 | 2021/1/22 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | DFS，和上一题类似，只不过判断对称是比较左儿子的左儿子和右儿子的右儿子，左儿子的右儿子和右儿子的左儿子 |
+| 2021/1/22 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | 每转一次弯相当于有一条边界向中移了一格                       |
 
