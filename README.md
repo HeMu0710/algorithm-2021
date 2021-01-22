@@ -49,4 +49,5 @@
 | 2021/1/22 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | 遍历两次，第一次得链表长度，第二次遍历到链表长度 - k 的地方即可 |
 | 2021/1/22 | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | 双指针                                                       |
 | 2021/1/22 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 类似于归并排序                                               |
+| 20211/22  | [剑指 Offer 26. 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | DFS，需要注意的是DFS的时候只要待匹配的节点为null，直接返回true |
 
