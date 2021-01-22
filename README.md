@@ -44,4 +44,5 @@
 | 2021/1/21 | [1489. 找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | 关键边：去除这条边后，最小生成树权值合变大(v > value)或者无法生成最小生成树<br>伪关键边：首先将这条边连上，最小生成树权值不变(v = value) |
 | 2021/1/21 | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | n的范围扩大，且结果要取模导致无法比大小，故直接采用数学方式  |
 | 2021/1/21 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | 单链表删除节点                                               |
+| 2021/1/22 | [989. 数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | 模拟正常加法                                                 |
 
