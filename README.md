@@ -45,4 +45,5 @@
 | 2021/1/21 | [剑指 Offer 14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | n的范围扩大，且结果要取模导致无法比大小，故直接采用数学方式  |
 | 2021/1/21 | [剑指 Offer 18. 删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | 单链表删除节点                                               |
 | 2021/1/22 | [989. 数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer/) | 模拟正常加法                                                 |
+| 2021/1/22 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 双指针从数组两边往中间靠                                     |
 
