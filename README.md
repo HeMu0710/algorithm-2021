@@ -48,4 +48,5 @@
 | 2021/1/22 | [剑指 Offer 21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | 双指针从数组两边往中间靠                                     |
 | 2021/1/22 | [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | 遍历两次，第一次得链表长度，第二次遍历到链表长度 - k 的地方即可 |
 | 2021/1/22 | [剑指 Offer 24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | 双指针                                                       |
+| 2021/1/22 | [剑指 Offer 25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | 类似于归并排序                                               |
 
