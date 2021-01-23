@@ -57,4 +57,5 @@
 | 2021/1/23 | [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | 并查集，若连接数小于n-1，不可能全部连接，返回 -1。需要更改的连接数就是通过并查集后计算得的连通分量 - 1 （并查集已经比较熟练，可以手写一遍过了 |
 | 2021/1/23 | [1248. 统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | 前缀和+差分，遍历数组，维护从0到i出现的奇数个数，odd[r] - odd[l - 1] = k即满足条件，故维护一个奇数个数出现的频次数组，每次结果加上前移k项的值即可 |
 | 2021/1/23 | [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | 模拟入栈出栈操作，最后判断栈是否为空即可                     |
+| 2021/1/23 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | 二叉树的层序遍历，使用队列实现                               |
 
