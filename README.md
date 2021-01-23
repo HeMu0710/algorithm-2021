@@ -53,5 +53,6 @@
 | 2021/1/22 | [剑指 Offer 27. 二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | DFS，就这？                                                  |
 | 2021/1/22 | [剑指 Offer 28. 对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | DFS，和上一题类似，只不过判断对称是比较左儿子的左儿子和右儿子的右儿子，左儿子的右儿子和右儿子的左儿子 |
 | 2021/1/22 | [剑指 Offer 29. 顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | 每转一次弯相当于有一条边界向中移了一格                       |
-| 2021/1/22 | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | 用数组实现，在push操作时维护更新min，减少排序消耗，只有在pop操作把min弹出后需要重新排序。 |
+| 2021/1/22 | [剑指 Offer 30. 包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | 用数组实现，在push操作时维护更新min，减少排序消耗，只有在pop操作把min弹出后需要重新排序 |
+| 2021/1/23 | [1319. 连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected/) | 并查集，若连接数小于n-1，不可能全部连接，返回 -1。需要更改的连接数就是通过并查集后计算得的连通分量 - 1 （并查集已经比较熟练，可以手写一遍过了 |
 
