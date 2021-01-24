@@ -59,4 +59,5 @@
 | 2021/1/23 | [剑指 Offer 31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | 模拟入栈出栈操作，最后判断栈是否为空即可                     |
 | 2021/1/23 | [剑指 Offer 32 - I. 从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | 二叉树的层序遍历，使用队列实现                               |
 | 2021/1/24 | [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | 遍历一遍就ok了                                               |
+| 2021/1/24 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | 递归，记录层数                                               |
 
