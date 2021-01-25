@@ -61,4 +61,5 @@
 | 2021/1/24 | [674. 最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence/) | 遍历一遍就ok了                                               |
 | 2021/1/24 | [剑指 Offer 32 - II. 从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | 递归，记录层数                                               |
 | 2021/1/24 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | 同上一题，奇数行翻转就行了                                   |
+| 2021/1/25 | [959. 由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | 并查集 or DFS or BFS                                         |
 
