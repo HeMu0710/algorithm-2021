@@ -63,4 +63,5 @@
 | 2021/1/24 | [剑指 Offer 32 - III. 从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | 同上一题，奇数行翻转就行了                                   |
 | 2021/1/25 | [959. 由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes/) | 并查集 or DFS or BFS                                         |
 | 2021/1/26 | [1128. 等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 将二维化作一维然后遍历数组                                   |
+| 2021/1/27 | [1579. 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 并查集，最小生成树分别构建，先处理公共边，再处理独占边       |
 
