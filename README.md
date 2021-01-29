@@ -65,4 +65,5 @@
 | 2021/1/26 | [1128. 等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/) | 将二维化作一维然后遍历数组                                   |
 | 2021/1/27 | [1579. 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 并查集，最小生成树分别构建，先处理公共边，再处理独占边       |
 | 2021/1/28 | [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 遍历，注意技巧避免求和次数重复，降低效率                     |
+| 2021/1/29 | [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 并查集，将所有边按权值排序，从小边往上加，加到起点和终点连通为止，此时这条边的权值便是答案 |
 
