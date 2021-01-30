@@ -66,4 +66,5 @@
 | 2021/1/27 | [1579. 保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/) | 并查集，最小生成树分别构建，先处理公共边，再处理独占边       |
 | 2021/1/28 | [724. 寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/) | 遍历，注意技巧避免求和次数重复，降低效率                     |
 | 2021/1/29 | [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/) | 并查集，将所有边按权值排序，从小边往上加，加到起点和终点连通为止，此时这条边的权值便是答案 |
+| 2021/1/30 | [778. 水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water/) | 并查集，将水池中各个方格看作点，两点之间的边为二者的平台高度的较大者，那么问题就简单了，将边按权值从小到大的顺序加入并查集，判断起点和终点是否相连，只要相连，此时加入的边长就是这条路径的最长边长，也就是所需等待的时间 |
 
