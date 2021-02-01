@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T959_regions_cut_by_slashes {
 

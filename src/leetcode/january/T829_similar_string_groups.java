@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T829_similar_string_groups {
 

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T684_redundant_connection {
 

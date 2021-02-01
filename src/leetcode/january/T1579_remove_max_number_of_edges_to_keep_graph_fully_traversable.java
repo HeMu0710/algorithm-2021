@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T1579_remove_max_number_of_edges_to_keep_graph_fully_traversable {
 

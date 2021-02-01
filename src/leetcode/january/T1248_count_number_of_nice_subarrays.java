@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T1248_count_number_of_nice_subarrays {
 

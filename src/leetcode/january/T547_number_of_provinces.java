@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T547_number_of_provinces {
 

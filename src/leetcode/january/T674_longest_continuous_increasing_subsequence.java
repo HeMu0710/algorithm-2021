@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T674_longest_continuous_increasing_subsequence {
 

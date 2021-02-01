@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T189_rotate_array {
     // https://leetcode-cn.com/problems/rotate-array/

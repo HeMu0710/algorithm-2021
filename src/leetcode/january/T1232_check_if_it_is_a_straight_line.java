@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T1232_check_if_it_is_a_straight_line {
 

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 import java.util.Arrays;
 

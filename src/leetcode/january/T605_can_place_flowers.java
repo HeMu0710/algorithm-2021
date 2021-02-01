@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T605_can_place_flowers {
     // https://leetcode-cn.com/problems/can-place-flowers/

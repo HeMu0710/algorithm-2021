@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T509_fibonacci_number {
     // https://leetcode-cn.com/problems/fibonacci-number/

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T1_two_sum {
 

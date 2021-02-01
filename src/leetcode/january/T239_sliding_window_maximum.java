@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T239_sliding_window_maximum {
     // https://leetcode-cn.com/problems/sliding-window-maximum/

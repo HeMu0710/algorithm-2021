@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.january;
 
 public class T803_bricks_falling_when_hit {
 
