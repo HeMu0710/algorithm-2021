@@ -7,6 +7,7 @@
 | 日期     | 题目                                                         | 思路或总结              |
 | -------- | ------------------------------------------------------------ | ----------------------- |
 | 2021/2/1 | [888. 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/) | 使用hashset加速查找过程 |
+| 2021/2/2 | [424. 替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement/) | 双指针+滑动窗口         |
 
 ## 归档
 
