@@ -14,6 +14,7 @@
 | 2021/2/6 | [1423. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/) | 找出n-k长度的最小合连续子串，其余就是合最大子串      |
 | 2021/2/7 | [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | 消除相邻递减的时候需要分情况考虑怎么消除             |
 | 2021/2/8 | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 二分递归，根据nums[i]和nums[i+1]确定往左递归还是往右 |
+| 2021/2/8 | [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | 滑动窗口                                             |
 
 ## 归档
 
