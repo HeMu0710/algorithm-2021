@@ -15,7 +15,7 @@
 | 2021/2/7 | [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/) | 消除相邻递减的时候需要分情况考虑怎么消除                     |
 | 2021/2/8 | [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) | 二分递归，根据nums[i]和nums[i+1]确定往左递归还是往右         |
 | 2021/2/8 | [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/) | 滑动窗口                                                     |
-| 2021/2/9 | [992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | 「最多存在 `K`个不同整数的子区间的个数」与「恰好存在 `K` 个不同整数的子区间的个数」的差恰好等于「最多存在 `K - 1`个不同整数的子区间的个数」 |
+| 2021/2/9 | [992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/) | 「最多存在 `K`个不同整数的子区间的个数」与「最多存在 `K-1` 个不同整数的子区间的个数」的差恰好等于「恰好存在 `K`个不同整数的子区间的个数」 |
 
 ## 归档
 
