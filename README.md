@@ -19,6 +19,7 @@
 | 2021/2/10 | [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/) | 滑动窗口                                                     |
 | 2021/2/11 | [703. 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | 维护一个固定长度的优先队列，保证队列首一直是第K大的元素      |
 | 2021/2/12 | [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/) | 注意反向遍历                                                 |
+| 2021/2/13 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 原地修改，最后遍历找出结果                                   |
 
 ## 归档
 
