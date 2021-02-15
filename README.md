@@ -22,6 +22,8 @@
 | 2021/2/13 | [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/) | 原地修改，最后遍历找出结果                                   |
 | 2021/2/13 | [剑指 Offer 33. 二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | 递归解决                                                     |
 | 2021/2/14 | [765. 情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) | 并查集，对每对座位上的俩个人按情侣对数序号进行合并操作，最后对数 - 连通分量即是结果 |
+| 2021/2/15 | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 数组遍历                                                     |
+| 2021/2/16 | [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) | 从小到大排完序后，从零往后取偶数下标的数之和即是答案         |
 
 ## 归档
 
