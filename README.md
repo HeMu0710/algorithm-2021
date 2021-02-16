@@ -24,6 +24,7 @@
 | 2021/2/14 | [765. 情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/) | 并查集，对每对座位上的俩个人按情侣对数序号进行合并操作，最后对数 - 连通分量即是结果 |
 | 2021/2/15 | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 数组遍历                                                     |
 | 2021/2/16 | [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) | 从小到大排完序后，从零往后取偶数下标的数之和即是答案         |
+| 2021/2/16 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | DFS+回溯                                                     |
 
 ## 归档
 
