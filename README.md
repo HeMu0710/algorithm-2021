@@ -25,6 +25,8 @@
 | 2021/2/15 | [485. 最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones/) | 数组遍历                                                     |
 | 2021/2/16 | [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/) | 从小到大排完序后，从零往后取偶数下标的数之和即是答案         |
 | 2021/2/16 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | DFS+回溯                                                     |
+| 2021/2/17 | [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | 数组遍历，注意下标的转换                                     |
+| 2021/2/18 | [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | 差分数组或者滑动窗口优化                                     |
 
 ## 归档
 
