@@ -27,6 +27,7 @@
 | 2021/2/16 | [剑指 Offer 34. 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | DFS+回溯                                                     |
 | 2021/2/17 | [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/) | 数组遍历，注意下标的转换                                     |
 | 2021/2/18 | [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | 差分数组或者滑动窗口优化                                     |
+| 2021/2/19 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | 滑动窗口，找到最大长度，含0个数不超过K的连续子数组           |
 
 ## 归档
 
