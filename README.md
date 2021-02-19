@@ -31,6 +31,7 @@
 | 2021/2/19 | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 深拷贝，哈希表或者拼接裁剪                                   |
 | 2021/2/19 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | 中序遍历dfs                                                  |
 | 2021/2/19 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | 层序遍历，包含二叉树完整信息                                 |
+| 2021/2/19 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | DFS+剪枝                                                     |
 
 ## 归档
 
