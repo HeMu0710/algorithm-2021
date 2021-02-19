@@ -29,6 +29,7 @@
 | 2021/2/18 | [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/) | 差分数组或者滑动窗口优化                                     |
 | 2021/2/19 | [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | 滑动窗口，找到最大长度，含0个数不超过K的连续子数组           |
 | 2021/2/19 | [剑指 Offer 35. 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | 深拷贝，哈希表或者拼接裁剪                                   |
+| 2021/2/19 | [剑指 Offer 36. 二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | 中序遍历dfs                                                  |
 
 ## 归档
 
