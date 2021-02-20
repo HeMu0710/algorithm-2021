@@ -32,3 +32,4 @@ public class T697_degree_of_array {
         return ans + 1;
     }
 }
+
