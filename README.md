@@ -36,6 +36,7 @@
 | 2021/2/20 | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 遍历，保存每个数字出现次数、第一次出现和最后一次出现         |
 | 2021/2/20 | [剑指 Offer 40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | 排序                                                         |
 | 2021/2/20 | [剑指 Offer 41. 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | 大根堆+小根堆                                                |
+| 2021/2/20 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | 动态规划                                                     |
 
 ## 归档
 
