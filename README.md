@@ -33,6 +33,7 @@
 | 2021/2/19 | [剑指 Offer 37. 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | 层序遍历，包含二叉树完整信息                                 |
 | 2021/2/19 | [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | DFS+剪枝                                                     |
 | 2021/2/20 | [剑指 Offer 39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | 摩尔投票法                                                   |
+| 2021/2/20 | [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/) | 遍历，保存每个数字出现次数、第一次出现和最后一次出现         |
 
 ## 归档
 
