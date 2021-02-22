@@ -38,6 +38,7 @@
 | 2021/2/20 | [剑指 Offer 41. 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | 大根堆+小根堆                                                |
 | 2021/2/20 | [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | 动态规划                                                     |
 | 2021/2/21 | [1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | 滑动窗口+单调双端队列                                        |
+| 2021/2/22 | [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) | 遍历比较每一行的除最后一个，和下一行的除第一个               |
 
 ## 归档
 
