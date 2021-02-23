@@ -46,6 +46,7 @@
 | 2021/2/23 | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | 动态规划+滚动数组优化                                        |
 | 2021/2/23 | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 动态规划+原地修改减少空间复杂度                              |
 | 2021/2/23 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | 双指针+哈希表，滑动窗口                                      |
+| 2021/2/23 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | 三指针动态规划                                               |
 
 ## 归档
 
