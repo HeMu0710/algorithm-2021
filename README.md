@@ -48,6 +48,7 @@
 | 2021/2/23 | [剑指 Offer 48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | 双指针+哈希表，滑动窗口                                      |
 | 2021/2/23 | [剑指 Offer 49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) | 三指针动态规划                                               |
 | 2021/2/23 | [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | 遍历，计数                                                   |
+| 2021/2/24 | [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | 尽量一次遍历解决                                             |
 
 ## 归档
 
