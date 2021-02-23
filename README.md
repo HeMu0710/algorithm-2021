@@ -41,6 +41,7 @@
 | 2021/2/22 | [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/) | 遍历比较每一行的除最后一个，和下一行的除第一个               |
 | 2021/2/23 | [剑指 Offer 43. 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | 递归，搞清楚拆解公式                                         |
 | 2021/2/23 | [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/) | 滑动窗口，遍历                                               |
+| 2021/2/23 | [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | 数学，计算位数                                               |
 
 ## 归档
 
