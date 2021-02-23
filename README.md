@@ -44,6 +44,7 @@
 | 2021/2/23 | [剑指 Offer 44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | 数学，计算位数                                               |
 | 2021/2/23 | [剑指 Offer 45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | 将数组转换为字符串数组后，对数组排序，按(x, y) -> (x + y).compareTo(y + x) |
 | 2021/2/23 | [剑指 Offer 46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | 动态规划+滚动数组优化                                        |
+| 2021/2/23 | [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | 动态规划+原地修改减少空间复杂度                              |
 
 ## 归档
 
