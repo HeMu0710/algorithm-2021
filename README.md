@@ -50,6 +50,7 @@
 | 2021/2/23 | [剑指 Offer 50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | 遍历，计数                                                   |
 | 2021/2/24 | [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | 尽量一次遍历解决                                             |
 | 2021/2/24 | [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | 归并排序求逆序对数量                                         |
+| 2021/2/25 | [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 遍历                                                         |
 
 ## 归档
 
