@@ -51,6 +51,7 @@
 | 2021/2/24 | [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/) | 尽量一次遍历解决                                             |
 | 2021/2/24 | [剑指 Offer 51. 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | 归并排序求逆序对数量                                         |
 | 2021/2/25 | [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 遍历                                                         |
+| 2021/2/26 | [1178. 猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 状态压缩，枚举谜面所有子集（即可能答案）                     |
 
 ## 归档
 
