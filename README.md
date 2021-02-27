@@ -53,6 +53,7 @@
 | 2021/2/25 | [867. 转置矩阵](https://leetcode-cn.com/problems/transpose-matrix/) | 遍历                                                         |
 | 2021/2/26 | [1178. 猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/) | 状态压缩，枚举谜面所有子集（即可能答案）                     |
 | 2021/2/27 | [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 分治+递归                                                    |
+| 2021/2/27 | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | 双指针，遍历到头后从另外一条链表开始遍历，相遇即找到答案     |
 
 ## 归档
 
