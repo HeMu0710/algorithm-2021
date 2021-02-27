@@ -55,6 +55,7 @@
 | 2021/2/27 | [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/) | 分治+递归                                                    |
 | 2021/2/27 | [剑指 Offer 52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | 双指针，遍历到头后从另外一条链表开始遍历，相遇即找到答案     |
 | 2021/2/27 | [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | 二分找到左右区间，注意不要写成死循环QAQ                      |
+| 2021/2/28 | [896. 单调数列](https://leetcode-cn.com/problems/monotonic-array/) | 遍历递减或递增                                               |
 
 ## 归档
 
