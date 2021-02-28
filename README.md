@@ -59,6 +59,7 @@
 | 2021/2/28 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | 二分                                                         |
 | 2021/2/28 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | 二叉搜索树中序遍历倒序                                       |
 | 2021/2/28 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | DFS                                                          |
+| 2021/2/28 | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | DFS                                                          |
 
 ## 归档
 
