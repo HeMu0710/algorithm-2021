@@ -1,6 +1,6 @@
 package leetcode.JZOffer;
 
-public class JZ_Ⅱ {
+public class JZ56_Ⅱ {
 
     // https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/comments/
 
