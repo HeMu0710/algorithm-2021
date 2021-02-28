@@ -61,6 +61,7 @@
 | 2021/2/28 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | DFS                                                          |
 | 2021/2/28 | [剑指 Offer 55 - II. 平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/) | DFS                                                          |
 | 2021/2/28 | [剑指 Offer 56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | 利用亦或的性质                                               |
+| 2021/2/28 | [剑指 Offer 56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | 统计二进制后每1位出现1的次数，如果是3n+1，则最后答案该位也为1，使用状态机降低空间消耗 |
 
 ## 归档
 
