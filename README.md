@@ -58,6 +58,7 @@
 | 2021/2/28 | [896. 单调数列](https://leetcode-cn.com/problems/monotonic-array/) | 遍历递减或递增                                               |
 | 2021/2/28 | [剑指 Offer 53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | 二分                                                         |
 | 2021/2/28 | [剑指 Offer 54. 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | 二叉搜索树中序遍历倒序                                       |
+| 2021/2/28 | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | DFS                                                          |
 
 ## 归档
 
