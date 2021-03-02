@@ -7,6 +7,7 @@
 | 日期     | 题目                                                         | 思路或总结 |
 | -------- | ------------------------------------------------------------ | ---------- |
 | 2021/3/1 | [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 前缀和     |
+| 2021/3/2 | [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 二维前缀和 |
 
 ## 归档
 
@@ -15,3 +16,4 @@
 - [二月归档](https://github.com/HeMu0710/algorithm-2021/tree/master/src/leetcode/february)
 
 PS：刷题记录每月归档一次，具体记录在对应月份文件夹内
+
