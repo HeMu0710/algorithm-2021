@@ -8,6 +8,7 @@
 | -------- | ------------------------------------------------------------ | ---------- |
 | 2021/3/1 | [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/) | 前缀和     |
 | 2021/3/2 | [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | 二维前缀和 |
+| 2021/3/3 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | 动态规划，找到对应2进制最高位，获得相应递推关系 |
 
 ## 归档
 
