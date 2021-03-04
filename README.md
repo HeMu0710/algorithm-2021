@@ -11,6 +11,7 @@
 | 2021/3/3 | [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/) | 动态规划，找到对应2进制最高位，获得相应递推关系 |
 | 2021/3/4 | [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/) | 动态规划 |
 | 2021/3/4 | [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/) | 二维降为一维后，动态规划 |
+| 2021/3/4 | [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | 滑动窗口 |
 
 ## 归档
 
