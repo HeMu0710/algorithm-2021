@@ -14,6 +14,7 @@
 | 2021/3/4 | [剑指 Offer 57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | 滑动窗口 |
 | 2021/3/5 | [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | 2个栈解决 |
 | 2021/3/6 | [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/) | 单调栈+循环数组 |
+| 2021/3/7 | [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) | DFS+动规 |
 
 ## 归档
 
