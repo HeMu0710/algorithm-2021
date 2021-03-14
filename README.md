@@ -21,6 +21,7 @@
 | 2021/3/11 | [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) | 栈 |
 | 2021/3/12 | [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | 并查集一把梭 |
 | 2021/3/13 | [705. 设计哈希集合](https://leetcode-cn.com/problems/design-hashset/) | 不就是哈希吗，开个大数组存，不寒碜！ |
+| 2021/3/14 | [706. 设计哈希映射](https://leetcode-cn.com/problems/design-hashmap/) | 同上 |
 
 ## 归档
 
