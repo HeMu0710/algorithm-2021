@@ -26,6 +26,7 @@
 | 2021/3/16 | [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/) | 数组操作 |
 | 2021/3/17 | [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/) | 动态规划 |
 | 2021/3/20 | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 栈 |
+| 2021/3/21 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 用首行首列记录是否出现0 |
 
 ## 归档
 
