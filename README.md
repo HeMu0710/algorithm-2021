@@ -28,6 +28,7 @@
 | 2021/3/20 | [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) | 栈 |
 | 2021/3/21 | [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/) | 用首行首列记录是否出现0 |
 | 2021/3/24 | [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/) | 从后遍历用单调递减栈先维护32，然后找到1<2即可 |
+| 2021/3/26 | [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) | 一次遍历 |
 
 ## 归档
 
